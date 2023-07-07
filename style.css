@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fresca&display=swap');
 body{
-    margin:20px;
+    margin:60px;
     padding:20px;
     font-family: 'Fresca', sans-serif;
+    background: url('https://plus.unsplash.com/premium_photo-1679860751413-751d597e21fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGZvcm11bGFyaW98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60') no-repeat center center/cover;
 }
 h2{
     margin-top:20px;
@@ -12,6 +13,8 @@ form{
     text-align: center;
     border-radius: 20px;
     padding:10px;
+    width: 100vh;
+    margin:0 auto;
 }
 .form-group {
   margin-bottom: 15px;
